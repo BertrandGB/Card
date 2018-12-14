@@ -1,0 +1,36 @@
+
+#main .col{
+    padding-bottom: 2rem;
+}
+
+#main .card {
+    width: 12rem;
+    border-color: black;
+}
+
+#main .card .card-header{
+    background-color: lightskyblue;
+    height: 2rem;
+}
+
+#main .card .card-body{
+    height:6rem;
+    padding:0;
+    border-top: 1px black solid;
+}
+
+#main .card .card-body .row{
+    margin:0;
+
+}
+
+#main .card .card-body .row .col{
+    border-color: black;
+    padding:0;
+    height:6rem;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size:4rem;
+
+}
